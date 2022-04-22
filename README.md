@@ -1,8 +1,11 @@
 Hey! I'm **RockstaR**
 
 ⪼ **Discord Bot Developer**
+
 ⪼ **Bio** - https://dsc.bio/tmrockstar
+
 ⪼ **Bot** - https://discord.me/mystify
+
 ⪼ **Languages** - Python (PY)
 
 <!---
