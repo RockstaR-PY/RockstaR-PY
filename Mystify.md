@@ -25,7 +25,7 @@
 
 **`7.` Fun Commands:-** This is one of the most Interesting Command Categories in Mystify. It includes a Total of 8 Commands that comprises of a Command to get a Random Meme from Reddit, A Command which makes the Bot repeat what the User said, An Emojify Command that converts Text into Emojis, A Gayrate, Pprate and Coolrate Command, A Slots Command and an 8ball Command. 
 
-**`8.` Utility Commands** Being the Category with the most number of Commands in Mystify, this set of Commands won't let you down. It contains a Total of 9 Commands that includes Random Password Generator that is only seen to the User and no one else, a Command to get the Weather of any City in the World, A Suggest and a Poll Command, an AFK Enable and Disable Command, a Legit or Scam poll Command and a Command that sends the Basic Rules of a Discord Server in an Embed, in short words - A readymade rules embed for your Server.
+**`8.` Utility Commands:-** Being the Category with the most number of Commands in Mystify, this set of Commands won't let you down. It contains a Total of 9 Commands that includes Random Password Generator that is only seen to the User and no one else, a Command to get the Weather of any City in the World, A Suggest and a Poll Command, an AFK Enable and Disable Command, a Legit or Scam poll Command and a Command that sends the Basic Rules of a Discord Server in an Embed, in short words - A readymade rules embed for your Server.
 
 *Useful Links:-*
 
